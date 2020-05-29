@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "app-complexity-assessment-launcher",
+    "description": "Application Complexity Assessment",
+    "displayName": "Application Complexity Assessment",
+    "rootNerdletId": "app-complexity-assessment-nerdlet"
+}
